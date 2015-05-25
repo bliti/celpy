@@ -1,3 +1,8 @@
+#Read the documentation!
+#specifically: http://xlsxwriter.readthedocs.org/working_with_cell_notation.html
+
+##the library already features methods to format cells. :D :D :D
+
 import xlsxwriter
 
 
